@@ -1,6 +1,6 @@
-# 易服道（YiFuDao）请假小程序
+# YiFuDao请假小程序
 
-基于 [Eoyz369/WeChat_YiFuDao](https://github.com/Eoyz369/WeChat_YiFuDao)（AGPL-3.0）二次开发的微信请假管理小程序，在保留原有请假/审批流程的基础上，扩展了多项自定义与体验优化功能。
+基于 [Eoyz369/WeChat_YiFuDao](https://github.com/Eoyz369/WeChat_YiFuDao)（AGPL-3.0）二次开发的微信仿奕辅导小程序，在保留原有请假/审批流程的基础上，扩展了多项自定义与体验优化功能。
 
 ## 功能特性
 
